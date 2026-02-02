@@ -13,5 +13,3 @@ This project demonstrates SQL skills for analyzing customer sales data.
 - ORDER BY
 - Aggregate Functions (COUNT, SUM)
 
-## Notes
-This is a practice project created for portfolio purposes.
